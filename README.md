@@ -34,8 +34,21 @@ To set up the development environment and run it, I made a folder in my finder a
  
  
 GIVEN I am using a daily planner to create a schedule
+Here is a video to show the functionality of the planner 
+
+
+<iframe src="https://drive.google.com/file/d/1jRQ36voriEM0r8PsfHMDTY8heZV2E5nv/preview" width="640" height="480"></iframe>
+
+
+
+
+
+
 WHEN I open the planner
 THEN the current day is displayed at the top of the calendar
+
+
+
 
 
 <img width="907" alt="image" src="https://user-images.githubusercontent.com/87034052/198850939-d93c8a41-a50b-4caa-9f80-8fc1da311c05.png">
@@ -52,6 +65,8 @@ WHEN I view the time blocks for that day
 THEN each time block is color-coded to indicate whether it is in the past, present, or future
 
 
+
+
 <img width="997" alt="image" src="https://user-images.githubusercontent.com/87034052/198850952-060c5cd2-909b-4a2e-96ea-cb090529b20d.png">
 
 
@@ -64,6 +79,9 @@ THEN each time block is color-coded to indicate whether it is in the past, prese
 WHEN I click into a time block
 THEN I can enter an event
 
+
+
+
 <img width="797" alt="image" src="https://user-images.githubusercontent.com/87034052/198851042-e8ed13b9-97a5-4feb-9cd0-af4167f1ce00.png">
 
 
@@ -75,6 +93,8 @@ WHEN I click the save button for that time block
 THEN the text for that event is saved in local storage
 
 
+
+
 <img width="86" alt="image" src="https://user-images.githubusercontent.com/87034052/198851051-a8bb6de1-80e1-4414-a492-bcb65136190e.png">
 
 
@@ -82,6 +102,7 @@ THEN the text for that event is saved in local storage
 
 WHEN I refresh the page
 THEN the saved events persist
+
 
 
 
@@ -95,19 +116,16 @@ THEN the saved events persist
 
 when i click the clear button all the inputs that were saved are no longer saved
 
+
+
+
 <img width="1703" alt="image" src="https://user-images.githubusercontent.com/87034052/198851121-b11fe02c-8ce5-4d1b-850d-dfb849b7e88f.png">
 
 
 
 
 
- Here is a video to show the functionality of the planner 
-
-
-
-
-
-
+ 
 
  # Support
 
