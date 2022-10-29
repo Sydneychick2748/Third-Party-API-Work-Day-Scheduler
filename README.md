@@ -4,7 +4,7 @@
 
 ## Description
 tThis project is a daily planner for people with busy schedules to keep up with all their tasks for the hours of the day.
- With a busy schedule, I want to add important events to a daily planner so I can manage my time effectively.
+ With a busy schedule, I want to add important events to a daily planner so I can manage my time effectively. You can see the live site here .....
 The planner has the date and day displayed when you visit your planner. The times 9 am to 5 pm are displayed on the side of the planner, and there is an input field and store button to put the task you want in accordance with that time. So when you leave your planner, come back to check the following tasks. The tasks should still be there for you as a user to see.
  There is also a clear button to clear the planner for the next day. This project was a little tricky. First, I had some challenges as it had to be in jquery. I started making a for loop and arrays and using document get element by id and a few other vanilla js code. I needed help understanding the jquery methods and how to apply them. With some help, I got it worked out. Jquery takes fewer lines of code than vanilla js, which is more manageable if you know the library. I did enjoy the project after I got threw my challenges.
 
@@ -135,7 +135,7 @@ you can email me for extra support at anabennett77@gmail.com
 
 ## License
 
-please refer to the repo at https://github.com/Sydneychick2748/Code-Quiz
+please refer to the repo at https://github.com/Sydneychick2748/Third-Party-API-Work-Day-Scheduler
 
 
 
